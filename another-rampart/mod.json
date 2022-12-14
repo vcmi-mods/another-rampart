@@ -1,0 +1,18 @@
+{
+	"name" : "Another Rampart",
+	"description" : "Another Rampart mod for ERA II ported to VCMI. New internal Rampart look.",
+	"author" : "???? from Chinese wog forums, Kuririn, avatar",
+	"version" : "1.1",
+	"modType" : "Graphical town modifications",
+	"contact" : "unknown",
+	"changelog" :
+	{
+		"1.1"   : [ "renamed folders" ]
+		"1.0"   : [ "Initial release" ]
+	},
+	"factions" :
+	[
+		"config/ramp-pres/town.json"
+	]
+
+}
