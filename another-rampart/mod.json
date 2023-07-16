@@ -7,7 +7,7 @@
 	"contact" : "unknown",
 	"changelog" :
 	{
-		"1.1"   : [ "Renamed folders" ]
+		"1.1"   : [ "Renamed folders" ],
 		"1.0"   : [ "Initial release" ]
 	},
 	"factions" :
