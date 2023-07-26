@@ -3,8 +3,14 @@
 	"description" : "Another Rampart mod for ERA II ported to VCMI. New internal Rampart look.",
 	"author" : "???? from Chinese wog forums, Kuririn, avatar",
 	"version" : "1.1",
-	"modType" : "Graphical town modifications",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Graphical",
 	"contact" : "unknown",
+	"compatibility" :
+	{
+		"min" : "1.0.0"
+	},
 	"changelog" :
 	{
 		"1.1"   : [ "Renamed folders" ],
